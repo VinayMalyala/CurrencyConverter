@@ -37,6 +37,7 @@ nav li a:hover{
 }
 
 .logo{
+    font-size: 2rem;
     margin: 0 1rem;
 }
 
@@ -87,6 +88,10 @@ nav li a:hover{
     font-size: 20px;
 }
 
+.output table th{
+    padding: 15px;
+}
+
 footer{
     /* position: sticky;
     bottom: 0; */
@@ -99,4 +104,51 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* media queries  */
+
+@media (max-width: 600px) {
+    body{
+        font-size: 18px;
+    }
+
+    nav{
+        flex-direction: column;
+        font-size: 14px;
+        height: 3.5rem;
+    }
+
+    .logo{
+        font-size: 1.2rem;
+    }
+
+    .container h1{
+        font-size: 20px;
+    }
+
+    .container form input[type='number'], select, label{
+        font-size: 18px;
+        width: 50vw;
+    }
+
+    .container form label{
+        font-size: 1rem; 
+    }
+
+    .output h2{
+        font-size: 15px;
+    }
+
+    th{
+        font-size: 14px;
+    }
+
+    td{
+        font-size: 15px;
+    }
+
+    footer{
+        font-size: 15px;
+    }
 }
