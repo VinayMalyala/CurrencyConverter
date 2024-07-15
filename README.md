@@ -45,7 +45,7 @@ This is a simple and user-friendly currency converter website built using HTML, 
 
 ## API Integration
 
-This application uses the [Currency Converter API](https://www.currencyconverterapi.com/) to fetch real-time exchange rates. Ensure you have an API key and include it in the JavaScript file where the API call is made.
+This application uses the [Currency Converter API](https://app.currencyapi.com/dashboard) to fetch real-time exchange rates. Ensure you have an API key and include it in the JavaScript file where the API call is made.
 
 ## Contributing
 
