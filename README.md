@@ -1,7 +1,3 @@
-Here's a sample context for a `README.md` file for your currency converter website:
-
----
-
 # Currency Converter Website
 
 ## Overview
@@ -59,7 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Currency Converter API](https://app.currencyapi.com/dashboard))
 - Inspiration from various online resources and tutorials.
-
----
-
-Feel free to customize this template further to suit your project's specific details and requirements.
