@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Currency Converter API](https://www.currencyconverterapi.com/)
+- [Currency Converter API](https://app.currencyapi.com/dashboard))
 - Inspiration from various online resources and tutorials.
 
 ---
